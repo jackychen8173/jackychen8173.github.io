@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Full-Stack Developer & Data Analyst • MSc @ BCIT
+subtitle: Full-Stack Developer & Data Analytics • MSc @ BCIT
 
 profile:
   align: right
