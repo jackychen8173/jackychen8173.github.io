@@ -6,7 +6,7 @@ subtitle: Full-Stack Developer & Data Analytics • MSc @ BCIT
 
 profile:
   align: right
-  image: Jacky_Chen_Profile_Photo.jpg
+  image: Jacky_Chen_Profile_Photo2.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Vancouver, BC</p>
