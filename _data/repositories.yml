@@ -4,4 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-
+- jackychen8173/glocalproject
+- jackychen8173/AppliedAIProjects
+- jackychen8173/bc-covid-dashboard
+- hyeonukim/IndoorLocalization
