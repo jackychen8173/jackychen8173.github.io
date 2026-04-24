@@ -4,7 +4,7 @@ title: Indoor VPR with DINOv2
 description: Visual place recognition using self-supervised learning
 img: 
 importance: 2
-category: work
+category: school
 github: # add repo link
 ---
 

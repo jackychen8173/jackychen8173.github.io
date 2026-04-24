@@ -4,7 +4,7 @@ title: TutorSpace
 description: Full-stack tutoring management platform
 img: 
 importance: 1
-category: work
+category: personal
 github: https://github.com/yourusername/tutorspace
 ---
 

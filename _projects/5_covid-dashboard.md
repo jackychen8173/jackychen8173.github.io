@@ -4,7 +4,7 @@ title: BC COVID-19 Dashboard
 description: Public health data visualization with Power BI
 img: 
 importance: 3
-category: work
+category: personal
 ---
 
 A two-page Power BI dashboard visualizing COVID-19 trends across British Columbia using BCCDC open data, designed as a portfolio project to demonstrate data analytics and visualization skills.
